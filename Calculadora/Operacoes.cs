@@ -3,9 +3,10 @@ namespace Calculadora
 {
     public class Operacoes
     {
-        public int valorA {get;set;}
+        // Mudei o tipo de int para long para poder suportar valores maiores que o limite do int
+        public long valorA {get;set;}
         public char operador { get; set; }
-        public int valorB { get; set; }
+        public long valorB { get; set; }
         public decimal resultado { get; set; }
 
     }
