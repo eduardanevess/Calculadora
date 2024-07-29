@@ -58,11 +58,11 @@ Operações restantes na fila:
 Operações restantes na fila:
 
 Resultados na pilha:
-2 + 3 = 5
-14 - 8 = 6
-5 * 6 = 30
-2147483647 + 2 = 2147483649
-18 / 3 = 6
+      2 + 3 = 5
+      14 - 8 = 6
+      5 * 6 = 30
+      2147483647 + 2 = 2147483649
+      18 / 3 = 6
 
 # Calculadora
 Case para Engenharia de Software JR
