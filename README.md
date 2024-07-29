@@ -26,43 +26,44 @@ Solução:
 Usei uma pilha para armazenar os resultados dos cálculos e implementei uma funcionalidade para exibir a pilha ao final na ordem correta.
 
 Saida:
+      
+      2 + 3 = 5
 
-2 + 3 = 5
-
-Operações restantes na fila:
-14 - 8
-5 * 6
-2147483647 + 2
-18 / 3
-
-14 - 8 = 6
-
-Operações restantes na fila:
-5 * 6
-2147483647 + 2
-18 / 3
-
-5 * 6 = 30
-
-Operações restantes na fila:
-2147483647 + 2
-18 / 3
-
-2147483647 + 2 = 2147483649
-
-Operações restantes na fila:
-18 / 3
-
-18 / 3 = 6
-
-Operações restantes na fila:
-
-Resultados na pilha:
+      Operações restantes na fila:
+      14 - 8
+      5 * 6
+      2147483647 + 2
+      18 / 3
+      
+      14 - 8 = 6
+      
+      Operações restantes na fila:
+      5 * 6
+      2147483647 + 2
+      18 / 3
+      
+      5 * 6 = 30
+      
+      Operações restantes na fila:
+      2147483647 + 2
+      18 / 3
+      
+      2147483647 + 2 = 2147483649
+      
+      Operações restantes na fila:
+      18 / 3
+      
+      18 / 3 = 6
+      
+      Operações restantes na fila:
+      
+      Resultados na pilha:
       2 + 3 = 5
       14 - 8 = 6
       5 * 6 = 30
       2147483647 + 2 = 2147483649
       18 / 3 = 6
+
 
 # Calculadora
 Case para Engenharia de Software JR
